@@ -14,7 +14,7 @@
 </div>
 
 <!--  [Visit Here!](https://www.samarthtmsl.live/) -->
-<h2 align="centre" > <a href="https://new-website-zeta.vercel.app/"> Visit Here</h2>
+<h2 align="centre" > <a href="https://www.samarthtmsl.live/"> Visit Here</h2>
   
 # 💫Members of the Tech Team ->
 
