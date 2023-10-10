@@ -57,7 +57,8 @@
  ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 
 <div align=left> 
-:biohazard: Languages We Work On:-
+  
+## :biohazard: Languages We Work On:-
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=SamarthTech&langs_count=12&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="ANYTHING" /></p>
 
 </div>
