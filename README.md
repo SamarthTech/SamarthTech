@@ -44,7 +44,7 @@
 
   <td align="center"><a href="https://github.com/darkhorse404" target="_blank" rel="nofollow"><img src="./images/Priyobrata.jpg" width="105" alt="@Priyobrata" style="max-width:100%;" width="85px;"><br/>Priyobrata Mondal</a> </td>
 
-   <td align="center"><a href="https://github.com/SujayDeyTMSL" target="_blank" rel="nofollow"><img src="./images/SujayDey.jpeg" width="105" alt="@Sujay" style="max-width:100%;" width="85px;"><br/>Sujay Dey</a> </td>
+   <td align="center"><a href="https://github.com/sujayx07" target="_blank" rel="nofollow"><img src="./images/SujayDey.jpeg" width="105" alt="@Sujay" style="max-width:100%;" width="85px;"><br/>Sujay Dey</a> </td>
 
    <td align="center"><a href="https://github.com/Sapta-Dev27" target="_blank" rel="nofollow"><img src="./images/Saptarshi.jpeg" width="105" alt="@Saptarshi" style="max-width:100%;" width="85px;"><br/>Saptarshi Paul</a> </td>
 
