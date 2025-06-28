@@ -14,7 +14,7 @@
 </div>
 
 <!--  [Visit Here!](https://www.samarthtmsl.live/) -->
-<h2 align="centre" > <a href="https://www.samarthtmsl.live/"> Visit Here</h2>
+<h2 align="centre" > <a href="https://www.samarthtmsl.vercel.app/"> Visit Here</h2>
   
 # 💫Members of the Tech Team ->
 
@@ -30,8 +30,7 @@
 
 # :man_technologist: Co-Heads
 <table><tbody><tr>
- <td align="center"><a href="https://github.com/SatyakiDey75" target="_blank" rel="nofollow"><img src="./images/satyakidey.jpg" width="105" alt="@Satyaki" style="max-width:100%;" width="85px;"><br/>Satyaki Dey</a> </td>
-
+  
    <td align="center"><a href="https://github.com/iam-ravi-12" target="_blank" rel="nofollow"><img src="./images/RaviRanjan.jpg" width="105" alt="@Ravi Ranjan" style="max-width:100%;" width="85px;"><br/>Ravi Ranjan Kumar </a> </td>
 
 </table>
