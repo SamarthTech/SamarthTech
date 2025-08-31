@@ -22,7 +22,7 @@
 # :man_technologist: Head
 <table><tbody><tr>
 
-<td align="center"><a href="https://github.com/LoNeWoLf003" target="_blank" rel="nofollow"><img src="/images/sayak_sengupta.png" width="105" alt="@Sayaksengupta" style="max-width:100%;" width="75px;"><br/>Sayak Sengupta</a> </td>
+<td align="center"><a href="https://github.com/iam-ravi-12" target="_blank" rel="nofollow"><img src="./images/RaviRanjan.jpg" width="105" alt="@Ravi Ranjan" style="max-width:100%;" width="85px;"><br/>Ravi Ranjan Kumar </a> </td>
 
 </table>
 
@@ -31,7 +31,9 @@
 # :man_technologist: Co-Heads
 <table><tbody><tr>
   
-   <td align="center"><a href="https://github.com/iam-ravi-12" target="_blank" rel="nofollow"><img src="./images/RaviRanjan.jpg" width="105" alt="@Ravi Ranjan" style="max-width:100%;" width="85px;"><br/>Ravi Ranjan Kumar </a> </td>
+   <td align="center"><a href="https://github.com/anirban12x" target="_blank" rel="nofollow"><img src="./images/Anirban.jpg" width="105" alt="@Anirban" style="max-width:100%;" width="85px;"><br/>Anirban Bandyopadhyay</a> </td>
+
+   <td align="center"><a href="https://github.com/sujayx07" target="_blank" rel="nofollow"><img src="./images/SujayDey.jpeg" width="105" alt="@Sujay" style="max-width:100%;" width="85px;"><br/>Sujay Dey</a> </td>
 
 </table>
 
@@ -45,12 +47,6 @@
 
    <td align="center"><a href="https://github.com/sujayx07" target="_blank" rel="nofollow"><img src="./images/SujayDey.jpeg" width="105" alt="@Sujay" style="max-width:100%;" width="85px;"><br/>Sujay Dey</a> </td>
 
-   <td align="center"><a href="https://github.com/Sapta-Dev27" target="_blank" rel="nofollow"><img src="./images/Saptarshi.jpeg" width="105" alt="@Saptarshi" style="max-width:100%;" width="85px;"><br/>Saptarshi Paul</a> </td>
-
-  <td align="center"><a href="https://github.com/Anish-2005" target="_blank" rel="nofollow"><img src="./images/AnishSeth.jpeg" width="105" alt="@Anish" style="max-width:100%;" width="85px;"><br/>Anish Seth</a> </td>
-
-  <td align="center"><a href="https://github.com/d3basmi1a" target="_blank" rel="nofollow"><img src="./images/Debasmita.jpeg" width="105" alt="@Debasmita" style="max-width:100%;" width="85px;"><br/>Debasmita Mondal</a> </td>
-   
  </tr></tbody></table>
 
  ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
